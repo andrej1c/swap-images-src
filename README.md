@@ -6,4 +6,4 @@ me stay focused on my work.
 
 This is just about identical copy of the code from https://github.com/keccers/heygirl minus pictures of Gosling :-)
 
-Pull Requests Welcome.
+Pull Requests Welcome. Especially if they help swap videos and elements with background-url.
